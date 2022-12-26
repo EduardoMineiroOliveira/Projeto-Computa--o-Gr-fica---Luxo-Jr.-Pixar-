@@ -1,0 +1,44 @@
+# Blender MTL File: 'luxo_by_cristoon animation.blend'
+# Material Count: 4
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ball.jpg
+
+newmtl Material.007
+Ns 94.020731
+Ka 0.633929 0.633929 0.633929
+Kd 0.570471 0.008757 0.005074
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 3
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd papel-de-parede-3d-textura-madeira-padro-10-metros-D_NQ_NP_848298-MLB27607020767_062018-F.jpg
+
+newmtl revison
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2

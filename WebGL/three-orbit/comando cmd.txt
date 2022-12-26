@@ -1,0 +1,16 @@
+Nessa pasta, substitua o .obj e .mtl pelos arquivos que vc gerou depois 
+de exportar no blender, também substitua no arquivo html 'three-demo-orbit'	
+os nomes do 'SOMEBODYONCETOLDME.obj' e 'mtl' pelos que vc gerou
+
+Pra deixar mais organizado, deixe o .jar na mesma pasta dos arquivos,
+abra o cmd e use o comando 'cd' para chegar onde está o arquivo
+exemplo:
+cd C:\Users\User\Desktop\three-orbit
+
+depois rode o comando no cmd
+
+java -jar WebServerLite.jar . 8081
+
+no navegador digite 'localhost:8081' e abra o arquivo .html e vc conseguirá
+visualizar os arquivos
+
